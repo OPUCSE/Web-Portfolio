@@ -18,7 +18,7 @@ p{
     width: 40%;
     float: left;
     margin:5%;
-    padding-left:0%
+    padding-left:2px%
 }
 .half-width img{
     width:80%;
@@ -44,4 +44,18 @@ section{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+.single-experience{
+    box-shadow: 10px 10px 40px aquamarine;
+    border-radius:5px;
+    height: 50%;
+    
+}
+.experience-area{
+    background-image: url("images/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#full-stack{
+    border-left: 1px solid;
 }
