@@ -11,7 +11,7 @@ h2{
 p{
     color:blue;
 }
-.name-highlight{
+.orange-highlight{
     color:orangered;
 }
 .half-width{
@@ -29,7 +29,7 @@ p{
     background-image: url("images/top-banner.png");
 }
 section{
-    height: 550px;
+    height: 530px;
     padding-bottom: 150px;
 }
 .link-button{
